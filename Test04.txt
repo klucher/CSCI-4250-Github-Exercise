@@ -1,6 +1,6 @@
 This is the first sentence.
 
-Two.
+This is the second sentence.
 
 Third.
 
