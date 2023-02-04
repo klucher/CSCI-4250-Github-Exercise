@@ -1,7 +1,7 @@
-This is the first sentence.
+This is the first sentence with edits.
 
 This is the second sentence.
 
 This is the third sentence.
 
-Fourth.
+This is the fourth sentence.
